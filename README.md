@@ -10,7 +10,11 @@ A book discovery app built with Flutter following **Clean Architecture**. Bookly
 
 ## Demo
 
-▶️ [Watch the demo](https://youtube.com/shorts/C5MHfU3Lmqw)
+<a href="https://youtube.com/shorts/C5MHfU3Lmqw">
+  <img src="https://img.youtube.com/vi/C5MHfU3Lmqw/maxresdefault.jpg" width="600">
+</a>
+
+*Click the thumbnail above to watch the app in action or click here* ▶️ [Watch the demo](https://youtube.com/shorts/C5MHfU3Lmqw)
 
 ## Features
 
